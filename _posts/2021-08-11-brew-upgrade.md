@@ -1,11 +1,9 @@
 ---
 title: Brew Upgrade
-date: 2022-05-31 21:00:00 -500
+date: 2021-08-11 11:36:00 -500
 categories: [brew]
 tags: [brew,upgrade]
 ---
-
-# Brew Upgrade
 
 Upgrading an application installed by Brew
 

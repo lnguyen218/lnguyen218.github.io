@@ -4,8 +4,6 @@ date: 2021-09-15 14:13:00 -500
 categories: [vim]
 tags: [vim,substitution]
 ---
-# Ampersand Substitution
-
 Ampersand represents entire matched regex value, so wrapping elements in parentheses is simple
 `s/\v\w+/(&)/g`
 
