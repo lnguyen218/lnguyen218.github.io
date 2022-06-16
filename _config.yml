@@ -21,7 +21,7 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: lnguyen314 useful links                          # the main title
+title: lt_nguyen developer notes
 
 tagline: A Doc site for my homelab   # it will display as the sub-title
 
