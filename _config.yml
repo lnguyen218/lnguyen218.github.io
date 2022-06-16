@@ -23,7 +23,7 @@ timezone: America/Chicago
 
 title: lt_nguyen developer notes
 
-tagline: A Doc site for my homelab   # it will display as the sub-title
+tagline: TS/JS and other random notes # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A Docs site for my homelab
